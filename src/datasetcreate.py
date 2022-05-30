@@ -4,6 +4,7 @@ import os
 dataframes = []
 
 def main():
+    #could turn this into arguments to be passed in
     path = "data/raw/cs.AI"
     path2 = "data/raw/cs.PL"
     
