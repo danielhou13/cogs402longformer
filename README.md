@@ -17,4 +17,4 @@ The code used the train the models can be found in the src folder under `longfor
 
 ## Model Visualizations
 
-The visualizations for the model can be found in the `src/Captum...` files.  
+The visualizations for the model can be found in the `src/CaptumLongformerSequenceClassificationPapers` files.  
