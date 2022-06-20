@@ -18,3 +18,7 @@ The code used the train the models can be found in the src folder under `longfor
 ## Model Visualizations
 
 The visualizations for the model can be found in the `src/CaptumLongformerSequenceClassificationPapers` files.  
+
+## Adjustments for T3-vis
+
+Modifications to T3-vis for longformer use can be found in the folder `src/T3-vis/`. This mainly includes the code to find the aggregate attention of the model across a specific testing set. 
