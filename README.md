@@ -1,8 +1,6 @@
-# cogs402longformer
+# Cogs402longformer
 
-
-
-
+This is the repository for COGS402 S2022 project. While you can clone this on to your own machine, there is a high GPU memory cost because of the requirements for the Longformer. The work for this project is primarily done on google colab, and the repository can also be found here for you to "clone": https://drive.google.com/drive/folders/1T0bmf2eqGK63pjqNtV25vIPsN9OcPZiS?usp=sharing. 
 
 ## Data Processing
 
@@ -14,13 +12,18 @@ The news dataset can be found [here](https://huggingface.co/datasets/hyperpartis
 
 The code used the train the models can be found in the src folder under `longformer_news` and `longformer_research_papers`, indicating what task each model was finetuned for. Both models, once trained, were published to the huggingface website and can be found [here](https://huggingface.co/danielhou13).
 
-
 ## Model Visualizations
 
-The attribution visualizations for the model can be found in the `src/CaptumLongformerSequenceClassificationPapers` files.
+The attribution visualizations for the model can be found in the `src/CaptumLongformerSequenceClassification` files.
 
-The attention visualizations for the model can be found in the files `src/ConvertSlidingAttentionMatrix...` files.
+The attention visualization notebooks for the model can be found in the folder `src/`, highlighted by the term "attention" or "attn" on the notebook names.
+
+At the top of each notebook will be more information about the visualizations used.
 
 ## Adjustments for T3-vis
 
+A portion of this project involves an adjustment and usage of some functions found in the [T3-vis](https://github.com/raymondzmc/T3-Vis) implementation. 
+
 Modifications to T3-vis for longformer use can be found in the folder `src/T3-vis/`. This mainly includes the code to find the aggregate attention of the model across a specific testing set. 
+
+To learn more about T3-vis, I recommend reading the their [paper](https://arxiv.org/abs/2108.13587)
