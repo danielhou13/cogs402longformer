@@ -1,0 +1,17 @@
+example,mean_cosine_sim,mean_cosine_sim_ranks,mean_kendall_tau,mean_RBO,scaled,alnum_only
+attrib_vs_all_layer_attn,0.170112,0.798563,0.131172,0.5397,False,False
+attrib_vs_all_layer_attn,0.194801,0.817593,0.201592,0.607878,False,True
+attrib_vs_all_layer_attn,0.120074,0.799616,0.134198,0.542645,True,False
+attrib_vs_all_layer_attn,0.275004,0.831287,0.254399,0.65191,True,True
+attrib_vs_layer12_attn,0.258871,0.807827,0.157007,0.552798,False,False
+attrib_vs_layer12_attn,0.409346,0.834781,0.262536,0.649316,False,True
+attrib_vs_layer12_attn,0.227269,0.811874,0.168294,0.55702,True,False
+attrib_vs_layer12_attn,0.399018,0.856377,0.34345,0.703445,True,True
+attrib_vs_lower_attn,0.074468,0.785569,0.095789,0.528623,False,False
+attrib_vs_lower_attn,0.123476,0.806076,0.166703,0.593192,False,True
+attrib_vs_lower_attn,0.102693,0.798156,0.130196,0.541461,True,False
+attrib_vs_lower_attn,0.257957,0.828604,0.245163,0.646449,True,True
+attrib_vs_upper_attn,0.233382,0.801003,0.137813,0.541053,False,False
+attrib_vs_upper_attn,0.421118,0.822304,0.21751,0.61776,False,True
+attrib_vs_upper_attn,0.304992,0.800179,0.135647,0.540826,True,False
+attrib_vs_upper_attn,0.412499,0.859177,0.356239,0.715535,True,True
