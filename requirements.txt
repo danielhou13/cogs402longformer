@@ -1,3 +1,4 @@
 transformers >= 4.18.0
 datasets
-pandas >= 1.4.2
+pandas >= 1.4.2 
+captum
