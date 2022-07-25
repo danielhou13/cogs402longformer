@@ -10,7 +10,7 @@ The news dataset can be found [here](https://huggingface.co/datasets/hyperpartis
 
 ## Model Training
 
-The code used the train the models can be found in the `src\training_notebooks` folder in the`longformer_news` and `longformer_research_papers` notebooks, indicating what task each model was finetuned for. Both models, once trained, were published to the huggingface website and can be found [here](https://huggingface.co/danielhou13).
+The code used to the train the models can be found wihtin the `src\training_notebooks` folder in the`longformer_news` and `longformer_research_papers` notebooks, indicating what task each model was finetuned for. Both models, once trained, were published to the huggingface website and can be found [here](https://huggingface.co/danielhou13).
 
 ## Model Visualizations
 
