@@ -12,9 +12,9 @@ The news dataset can be found [here](https://huggingface.co/datasets/hyperpartis
 
 The code used to the train the models can be found wihtin the `src\training_notebooks` folder in the`longformer_news` and `longformer_research_papers` notebooks, indicating what task each model was finetuned for. Both models, once trained, were published to the huggingface website and can be found [here](https://huggingface.co/danielhou13).
 
-## Model Visualizations
+## Model Visualizations and Interpretations
 
-The attribution visualizations for the model can be found in the `src/CaptumLongformerSequenceClassification...` files.
+The attribution visualizations for the model can be found in the `src/Attributions...` files.
 
 The attention visualization notebooks for the model can be found in the folder `src/`, highlighted by the term "attention" or "attn" on the notebook names.
 
