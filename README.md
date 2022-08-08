@@ -10,15 +10,23 @@ The news dataset can be found [here](https://huggingface.co/datasets/hyperpartis
 
 ## Model Training
 
-The code used to the train the models can be found wihtin the `src\training_notebooks` folder in the`longformer_news` and `longformer_research_papers` notebooks, indicating what task each model was finetuned for. Both models, once trained, were published to the huggingface website and can be found [here](https://huggingface.co/danielhou13).
+The code used to the train the models can be found wihtin the `src/training_notebooks` folder in the`longformer_news` and `longformer_research_papers` notebooks, indicating what task each model was finetuned for. Both models, once trained, were published to the huggingface website and can be found [here](https://huggingface.co/danielhou13).
 
 ## Model Visualizations and Interpretations
 
-The attribution visualizations for the model can be found in the `src/Attributions...` files.
-
-The attention visualization notebooks for the model can be found in the folder `src/`, highlighted by the term "attention" or "attn" on the notebook names.
-
 At the top of each notebook will be more information about the visualizations used.
+
+### Attributions
+The attribution visualizations for the model can be found in the `src/Attributions...` files. We visualize the attributions in two ways. The first is to use an overlay for the attributions scores by mapping the attribution score into a colour that increases in saturation the larger the score. The second method is to create a few dataframes which sort the attribution scores from largest to smallest.
+
+### Attentions
+The attention visualization notebooks for the model can be found in the folder `src/`, highlighted by the term "attention" or "attn" on the notebook names. We create 2d heatmaps for all layers and heads of an example example, or we can use T3-vis to get the aggregate attentions over all examples in the dataset. We visualize the 2d heatmap in `src/example_attn_plot.ipynb` and the aggregate in `src/T3-vis/visualize_aggregate_attn.ipynb`
+
+We examine each token's most attended and attending tokens and the most attended tokens in the example for different attention layers and heads in the notebook `src/token_attention_with_head_importance.ipynb`. The notebook `src/token_attention_with_head_importance_pdf.ipynb` serves only to quickly create the attention overlay using the summed attention for each token. Similar to the attribution overlay, we convert each attention weight into a colour where the larger the attention weight, the stronger the saturation.
+
+### Comparing Attention and Attributions
+
+`Attention_attribution_similarities.ipynb` and `Attn_attr_sim_means.ipynb` compares summed attention weights with attribution scores. `Attn_attr_sim_means.ipynb` looks at the mean over a dataset while `Attention_attribution_similarities.ipynb` takes an in-depth look at one example.
 
 ## Adjustments for T3-vis
 
