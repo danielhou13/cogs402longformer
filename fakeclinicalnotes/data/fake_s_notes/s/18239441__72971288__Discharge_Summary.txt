@@ -1,0 +1,84 @@
+
+START_OF_RECORD=0||||0|||| 
+﻿BC MENTAL HEALTH CENTRE AND SUBSTANCE ABUSE	Patient Loc-Svc:  CPE-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	15/11/2017  (DD/MM/YYYY)
+Discharged:	20/11/2017  (DD/MM/YYYY)
+
+
+
+ADMISSION DIAGNOSIS
+Not given.
+
+DISCHARGE DIAGNOSES
+1.	Borderline personality organization.
+2.	Persistent depressive disorder/dysthymia.
+3.	Social anxiety.
+
+MEDICATIONS ON DISCHARGE
+1.	Sertraline 150 mg p.o. nightly.
+2.	Lorazepam sublingual 0.5 mg.
+
+MEDICATIONS AT DISCHARGE
+1.	Sertraline 175 mg p.o. nightly for another 3 days then increase to 200 mg p.o. nightly.
+2.	Lorazepam 0.5 mg as a p.r.n. for anxiety.
+3.	Gravol 25 mg q.6 h. p.r.n. internal agitation.
+
+TREATMENT PLAN AFTER DISCHARGE
+1.	Return to the TRACC program to be followed by [**First Name5 (NamePattern1) 1**] [**Last Name (NamePattern1) 2**]-[**Last Name (un) 3**] for dialectical behavior therapy.
+2.	Continue with Dr. [**Last Name (STitle) 4**] [**Name (STitle) 5**] for medication management until the [**Location (un) 6**] psychiatrist is available to take over care.
+
+IDENTIFICATION AND COURSE ON THE UNIT
+Please see other records for more details.  In brief, [**Female First Name (un) 7**] is a 14-year-old young woman who has had many years of depressive symptoms.  Many years of suicidal thoughts and described making a commitment to herself to kill herself by the age she was 11 and the commitment to kill herself by that time she was age 13, and that she reports an increase in suicidality in the 2 weeks prior to admission without any clear stressors or other factors adding into this. 
+
+She was seen as having a change in clinical status leading to an admission to clarify her current issues, to ensure that she  has appropriate followup, possibly adjust medications. 
+
+While in hospital, she presented as bright, cheery with her co-patients and in fact it appears they have formed a cadre of like-minded individuals who had exchanged phone numbers and contact information, and over the weekend had all secretly planned to sabotage either passes in order to get back on to the unit to continue socializing.  We certainly worry about regression or developing new symptoms or contagion and parents were specific that she was eating much less when she would be out on pass that they wonder if this might be secondary to influence from a co-patient with some eating disorder symptoms. 
+
+Despite her looking bright and cheery with co-patients, clearly enjoying herself on meeting with psychiatrists, she was fairly consistent in saying that she was despondent, that she would kill herself if she went on pass; but then would go on pass without any suicide attempt, though she also cuts for self soothing, and cut on her Saturday pass, and cut again on her Sunday pass. 
+
+Given [**Female First Name (un) 8**] resistance to looking at ways to try to improve and her efforts to try to remain on the unit to socialize with other patients; although she was clearly distressed it was felt that hospitalization for a longer period of time would not be helpful and was already becoming harmful.
+
+INVESTIGATIONS IN HOSPITAL
+CBC was unremarkable.  Electrolytes and liver function was unremarkable.  Total cholesterol 4.17, triglyceride 0.89, HDL 1.26, LDL 2.51, TSH was in the normal range at 1.55, and serum insulin was normal at 38.
+
+MENTAL STATUS ON DISCHARGE
+[**Female First Name (un) 7**] presented as a well groomed 14-year-old young woman with braces who presented as somewhat guarded, and unlike other interviews was not tearful through the time.  She was able to describe years of suicidal thoughts and reported that her risk of suicide was higher, but it does not appear that she has come close to acting on her thoughts, and this is more of a chronic pattern. 
+
+Interestingly, she endorsed that, unlike the fluoxetine, her dose of sertraline was quite helpful to make her thoughts clearer and to completely get rid of suicidal thoughts, and the urge to cut.  [**Female First Name (un) 7**] reports having so many years of suicidal thoughts and cutting that this change was unnerving as if she no longer knew who she was if she was not suicidal, and she described trying to force herself to think of suicide and forcing herself to cut, even though there is no longer release from distress.  [**Female First Name (un) 7**] describes ongoing dysthymic symptoms, though she is clearly enjoying herself on the unit. This initial clearing of thoughts and lightening of mood has not been sustained.
+
+Despite [**Female First Name (un) 8**] clear ongoing reports of suicidality going back many years.  It appears that her risk is moderate for a suicide attempt, this is chronic and she is at her baseline level of risk. Keeping [**Female First Name (un) 7**] in hospital could increase her risk but could not decrease this.  She already seemed to be regressing, becoming institutionalized and was starting to pick up symptoms from other patients.
+
+FORMULATION
+[**Female First Name (un) 7**] is a 14-year-old young woman with biological loading for depression who has had many, many years of low-grade low mood fitting with dysthymia with episodic dips into depression but also borderline personality structure and use of cutting as a way of self soothing. 
+
+Unfortunately, it is only in the last 2 weeks that she has connected with a long-term therapist in [**Location (un) 6**] who will be providing DBT, so she has been managed mostly with medication and private therapy that has not lead to significant change, though she reports sertraline had been effective at changing her symptoms to the point that she was unnerved and seemed to be making deliberate efforts to have her suicidality come back. 
+
+Within this context, it is unclear why over the last week or 2 there is persistence of depressed mood if she had had an earlier response to sertraline.  Although she has had chronic suicidal ideation, she is at low-to-moderate risk chronically, and it seems to keep her in hospital was leading to regression and absorbing symptoms from others so a longer hospitalization would increase her risk and is relatively contraindicated.
+
+RECOMMENDATIONS
+As part of her treatment, since she had an early response to sertraline, Dr. [**Last Name (STitle) 5**] was increasing the dose up to 200 mg in a stepwise manner.  Additionally, we had heard that she is just starting dialectical behavior therapy within [**Last Name (un) 1**] which is the treatment of choice for the borderline traits. 
+
+We worked with parents to start to look at how to come up with family rules, expectations, to encourage her to return to school, etc., and the complex interplay between trying to keep her safe without being intrusive.  I suspect there will be a lot more work that will need to be done in family therapy or with the support of [**Last Name (un) 1**].  Luckily parents or already connected to [**Last Name (un) 9**] Family Services for parenting support. 
+
+We have worked on safety proofing the home and a return to her therapist with whom she has an appointment tomorrow, and return to school as soon as possible. 
+
+In addition to the above, there was suggestion on the admission note of adding in a second-generation antipsychotics to augment her sertraline.  At the time of discharge, it does not seem the best time to start that up; but I  spoke with parents about how if lorazepam is not effective as a p.r.n., we often go to the older antihistamines such as Gravol, if  that is ineffective or not tolerated, then there are the SGAs as were discussed on admission.  After reviewing the possible benefits and side effects of Gravol, they are all comfortable with giving this a try; and parents know that they can speak with Dr. [**Last Name (STitle) 5**] about other treatment options if this is ineffective. 
+
+As a team we recognize that [**Female First Name (un) 7**] is distressed, and unfortunately, there is no effective treatment in hospital, and she may be made worse in hospital despite her degree of distress; and we expect in the next short term, since she enjoyed being in hospital so much, she may be making efforts to be readmitted.  Readmission is not absolutely contraindicated, but if [**Female First Name (un) 7**] presents to the emergency and is considered for admission, there would have to be a clear condition for which there is effective treatment in hospital as well as a discussion about the potential dangers of hospitalization including what we have already observed: [**Female First Name (un) 7**] seeing herself as an institutionalized patient and strongly affiliating with other borderline youth. 
+
+Overall we believe that the dialectical behavior therapy is the treatment of choice; and assuming she can stick with this, she should be feeling much more stable and settled in the next 6 months or so.
+
+
+[**Signature 10**]
+Dictated By:  [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) 12**] [**Last Name (NamePattern1) 13**], MD
+Psychiatry
+
+AWF/MODL
+Job #:  149550
+Doc #:  33281086
+D:  20/11/2017 14:13:47
+T:  20/11/2017 15:18:22
+||||END_OF_RECORD

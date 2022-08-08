@@ -1,0 +1,71 @@
+
+START_OF_RECORD=0||||0|||| 
+﻿BC MENTAL HEALTH CENTRE AND SUBSTANCE ABUSE	Patient Loc-Svc:  CPE-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	31/01/2018  (DD/MM/YYYY)
+Discharged:	[**2020-09-28**]  (DD/MM/YYYY)
+
+
+CAPE UNIT DISCHARGE SUMMARY
+
+Date of admission:  [**2020-10-27**]. 
+Date of discharge:  [**2020-10-28**].
+
+MEDICATIONS ON ADMISSION
+None (sertraline prescribed).
+
+DISCHARGE MEDICATIONS
+1.	Fluoxetine 10 mg daily x1 week, likely will increase to a target dose of 30 to 40 mg.
+2.	Lorazepam 0.5 mg sublingually q.1h p.r.n. to a maximum of 1 mg per day, a 7 tablets prescription.
+
+ADMISSION DIAGNOSIS
+Major depressive disorder, with suicidal ideation.
+
+DISCHARGE DIAGNOSIS
+Major depressive disorder, with suicidal ideation.  Anxiety traits and obsessive traits also present.
+
+TREATMENT/COURSE IN HOSPITAL
+[**First Name8 (NamePattern2) 1**] [**Last Name (NamePattern1) 2**] is a 14-year-old girl who lives with her family in Vancouver, British [**Location (un) 3**].  She has divorced parents and spends half time with her mother and half time with her father and stepmother.  [**Female First Name (un) 1**] was admitted on [**2020-10-27**], after her 2nd presentation to the emergency department in 2 days.  She had significant suicidal ideation on her time of admission, and was seen the next day for assessment and planning. 
+
+In interview, [**Female First Name (un) 1**] presented as depressed.  She endorses multiple depressive symptoms including loss of appetite, loss of energy, decreased sleep, decreased concentration, negative self talk and feelings of guilt and worthlessness, sadness, and lack of interest in normally enjoyable behaviors.  She states that these things have been going on for a very long time and she cannot remember the last time, she felt well.  She was just discharged from the hospital yesterday following presentation to emergency department for thoughts of wanting to cut her wrists, and she states that when she was discharged, the day was going relatively well although she had the background suicidal ideation, and then when she went to see her therapist was able to do a safety plan.  However, shortly after that, she "quickly unraveled" and became suicidal once again and had to come to the hospital.  Because of the rapid representation to the emergency department admission was an obvious choice and [**Female First Name (un) 1**] was admitted to the CAPE unit without any incident. 
+
+[**Female First Name (un) 1**] did a lot of self isolation on the unit, primarily owing to the fact that she finds herself to be relatively socially awkward and anxious, and she had a very hard time introducing herself on the unit.  As well, the unit milieu was somewhat intense with a patient with high needs, and she had some concerns that she might not be safe on the unit.  This was not paranoia, it was well founded.  [**Female First Name (un) 1**] spent her time in the patient room, drawing, and then when her mother brought a book, reading. 
+
+[**Female First Name (un) 1**] states that she has a good relationship with Dr. [**Last Name (STitle) 4**] and looks forward to seeing her weekly.  She notes that things have been deteriorating despite seeing Dr. [**Last Name (STitle) 4**] but was quite insistent that she fell that Dr. [**Last Name (STitle) 4**] was being helpful for her and wanted that relationship to continue.  She did agree that she needs to try and start medication, and the prescription has been given but she had not yet taken it (only prescribed a few days ago).  When we reviewed medication options, she was willing and eager participant, asking appropriate questions but clearly wanting to feel better. 
+
+[**Female First Name (un) 1**] describes a long-standing suicidal ideation that has never quite left.  She states the last few days have gotten more intense, however she also reaches out for help and recognizes that things need to get better.  She is able to identify a number of future goals such as going to [**Location (un) 5**], graduating high school, becoming a microbiologist, seeing her friends, etc.  She states that the thoughts of death and dying sometimes overwhelm her and recently she has been feeling less swayed by the idea that people around her would suffer and feeling more that she has such a failure that people around her would do better if she was dead.  During our conversation she was quickly able to identify that as a maladaptive thought, and something that was more like "the depression talking."  She admits that her depression has gotten the best of her over the last little while and she has noticed a significant decline.  She finds it very hard to concentrate at school, even though she is getting very good marks.  [**Female First Name (un) 1**] was able to share that she would like to get better and was willing to take medication, and by the end of our interview time she was working on a discharge plan. 
+
+A meeting with mother revealed significant concern for the deterioration despite therapy.  Mother was on board with medication and needed little convincing.  Father was away in the UK but mother felt that their goals were aligned and father was available for a followup meeting that we will be scheduling.  Mother agreed to the discharge plan as outlined below, and [**Female First Name (un) 6**] stepmother and grandmother also joined for the family meeting in consideration of the same. 
+
+[**Female First Name (un) 1**] had no major incident on the unit and did relatively well.  She received psychoeducation very well with respect to medication and continues to endorse to want to see Dr. [**Last Name (STitle) 4**].  She seemed to get along well with the writer and was happy to see me in follow up appointment next week, and when given the opportunity to stay in hospital overnight 1 more night or go home, [**Female First Name (un) 1**] chose to go home.  She seemed to be in a good frame of mind, and understood that she could come back to the hospital at any time.  She completed the safety plan with us which was similar to the one that she had with Dr. [**Last Name (STitle) 4**] the previous day.
+
+MENTAL STATUS EXAMINATION ON DISCHARGE
+[**First Name8 (NamePattern2) 1**] [**Last Name (NamePattern1) 2**] is a 14-year-old, slender, female, who looks her stated age.  She had dark circles under her eyes.  She was somewhat slow in her movements but not fully bradykinetic.  She has good hygiene and good posture, was reciprocal and interactive during the conversation.  Her language use was good and she was fluent in English.  She was able to articulate herself clearly.  Thought form was organized and goal directed.  Thought content was free of any major delusions but she has overall depressive content with significant lack of self-esteem and over emphasis on negative judgment.  Perceptual abnormalities were denied.  Affect was sad but she was able to brighten up and showed good sense of humor in response to jokes.  Mood was described as low and sad.  Insight and judgment were appropriate for her age, and suicidal thinking is ongoing and passive, with no active thoughts today.
+
+RISK ASSESSMENT
+[**Female First Name (un) 1**] obviously struggles with long-standing suicidal ideation but she has a life long history of self-injury with multiple opportunities for further injuries that she has not seized upon.  She is future focused and amendable to psychotherapeutic, as well as pharmaceutical treatment, and was able to construct a significant and reasonable safety plan.  She has good supervision, good access to followup, and with her visit here that she is familiar with how to reach out to emergency services and get hospital help.  [**Female First Name (un) 1**] was an active participant in her care and was a problem [**Name (NI) 7**], and though suicidal ideation is a major concern and I will always worry about her risk for suicide, at the time of her admission, and in planning for her discharge, her risk of death by suicide seems modest, particularly in the light of her intractability and problem solving.  I have no doubt that she is struggling with depression but she was hopeful that medication treatment be helpful for her and liked the idea of using emergency medications instead of entertaining suicidal thoughts for very long. 
+
+Overall, I do not think a longer hospitalization is warranted, and the exposure to risk on the unit with our more activated patient's right now does not seem a large benefit compared to her discharge to her loving and well supervised home, when she is willing and able to engage in both voluntary, as well as emergency treatment by accessing Hospital.  With rapid followup and ongoing psychotherapeutic care, I believe that discharge is appropriate.
+
+PLAN
+1.	Follow up with Dr. [**Last Name (STitle) 4**] as previous.
+2.	I will contact Dr. [**Last Name (STitle) 4**] by phone at [**Telephone/Fax (2) 8**], and update regarding the admission today.  As well, her school counselor, Mr. [**Last Name (Titles) 9**], who is available at [**Telephone/Fax (2) 10**] or [**Telephone/Fax (2) 11**], to discuss reduction of school burden.
+3.	We started medication as indicated above.
+4.	[**Female First Name (un) 1**] will come see me for followup on [**2020-11-04**], at 4:30 p.m.  I will see her weekly while medication starting.
+5.	We will be available for [**Female First Name (un) 1**] long-term.  If she needs to come back to the hospital she can present to the emergency department at any time, as well I provided my e-mail address and I am very comfortable with [**Female First Name (un) 1**] or her family emailing me as I am available generally the next day for any urgent concerns. 
+
+It was a pleasure seeing [**Female First Name (un) 1**] and her family during this stay and we wish her the very best in the future.
+
+
+[**Signature 12**]
+Dictated By:  [**First Name4 (NamePattern1) 13**] [**Last Name (NamePattern1) 14**], MD
+Psychiatry
+
+TB/MODL
+Job #:  332146
+Doc #:  34369705
+D:  [**2020-09-28**] 17:03:45
+T:  [**2020-09-28**] 18:36:52
+||||END_OF_RECORD

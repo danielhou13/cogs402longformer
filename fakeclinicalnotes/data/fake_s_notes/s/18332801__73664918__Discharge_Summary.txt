@@ -1,0 +1,55 @@
+
+START_OF_RECORD=0||||0|||| 
+﻿BC CHILDREN'S HOSPITAL	Patient Loc-Svc:  T1ED-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	[**2020-03-08**]  (DD/MM/YYYY)
+Discharged:	[**2020-05-08**]  (DD/MM/YYYY)
+
+
+
+[**Female First Name (un) 1**] was admitted to the CAPE unit on [**2020-09-01**] certified under the mental health act.  This discharge summary should be seen together with the admission history, which was dictated on the date of admission.  [**Female First Name (un) 1**] was discharged from BC Children's Hospital [**2020-09-03**] and transferred to child and adolescent psychiatric stabilization unit at Surrey [**Hospital 2**] Hospital.
+
+PATIENT IDENTIFICATION
+[**Female First Name (un) 1**] is a 16-year-old female in grade 11 at Delta Secondary School.  She lives with her mother, father and her younger sister. 
+
+She has a previous history of OCD, anxiety and depressive disorder that had resulted in the past in an admission to the Child Inpatient Unit at Children's Hospital.  She has been stable and doing very well over the past 3-1/2 years. 
+
+She was admitted to hospital after a 3-week decline in her mood that resulted in decreased concentration, decreased interest, increased social withdrawal, sleep interruption, decreased appetite, and increasing suicidal ideation.
+
+COURSE IN HOSPITAL
+[**Female First Name (un) 1**] settled onto the CAPE unit, spending much of her time in her room.  She was withdrawn and did not interact with copatients on the unit nor staff.  She remained in hospital pajamas.  She was guarded.  She disclosed frustration that her parents were trying to mobilize her out of her bedroom at home prior to admission, stating that she did want to be around people and found this difficult.  This is an abrupt change from her usual outgoing socially engaging personality.  
+
+She was observed to eat adequate amounts on the unit.  She would come into interview without difficulty.  However, it was difficult to engage her in much conversation and she did not respond well to open-ended questions.
+
+MENTAL STATUS ON DISCHARGE
+A 16-year-old female with long unkempt hair in hospital pjs, guarded, affect flat, mood depressed.  There was evidence of psychomotor retardation and evidence of latency.  Accessibility was limited.  She denied on direct questioning any OCD symptoms or worsening anxiety.  Eye contact was intermittent and avoided.  Her speech was soft.  Thought form was goal directed when she responded.  There was no spontaneous interaction.  She reported continued passive suicidal ideation but no intent or active plan.  She denied continuing perceptual abnormalities.  She reported at times hearing her name called but denied that was an ongoing issue for her.  She does have some notable visual allusions that occur with lights but she has insight into these.  Insight is partial.  Judgment appropriate under the circumstances.
+
+DISCHARGE DIAGNOSIS
+Major depressive disorder, rule out with psychotic symptoms, moderate to severe.  OCD by history well managed currently.
+
+DISCHARGE MEDICATIONS
+1.	Sertraline 50 mg in the morning, 150 mg at bedtime.
+2.	Quetiapine XR 200 mg at bedtime.  
+3.	Melatonin 6 mg at bedtime. 
+4.	She did not require p.r.n. medication through the course of her 2 days on the CAPE unit.  
+
+She is followed by the mental health metabolic clinic and has had recent blood work done there, and as such her blood work was not repeated when she was admitted to CAPE.
+
+PLANS
+1.	Delta Child and Youth Mental Health Team was contacted and a referral was made for her to resume treatment with the team. 
+2.	She currently sees Dr. [**First Name (STitle) 3**] who had been the psychiatrist with the Delta Child and Youth Mental Health Team several years ago when she was attending the team at that time.  Apparently, he moved to the Surrey Child and Youth Mental Health Team but continued to follow [**Female First Name (un) 1**] and manage her medications through that team rather than transferring her care to an alternate psychiatrist.  I believe that this was because she was doing quite well and he was only seen her once every 6-8 months.  She will require either increased contact with him or transfer to a psychiatrist with the Delta Child and Youth Mental Health Team if they have 1 currently available.  
+3.	Transferring her to the Child and Adolescent Psychiatric Stabilization Unit at Surrey [**Hospital 2**] Hospital for ongoing stabilization.
+
+
+[**Signature 4**]
+Dictated By:  [**Last Name (un) 5**]-[**First Name4 (NamePattern1) 6**] [**Last Name (NamePattern1) 7**], MD
+Psychiatry
+
+JD/MODL
+Job #:  191294
+Doc #:  33579779
+D:  [**2020-05-08**] 14:01:51
+T:  [**2020-05-08**] 14:34:44
+||||END_OF_RECORD

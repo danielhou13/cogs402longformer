@@ -1,0 +1,63 @@
+
+START_OF_RECORD=0||||0|||| 
+BC MENTAL HEALTH CENTRE AND SUBSTANCE ABUSE	Patient Loc-Svc:  CPE-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	[**2021-05-01**]  (DD/MM/YYYY)
+Discharged:	[**2021-08-01**]  (DD/MM/YYYY)
+
+
+
+LENGTH OF STAY
+3 days.
+
+ADMISSION MEDICATIONS
+1.	Fluoxetine 60 mg daily.  
+2.	Wellbutrin XL 150 mg daily.  
+3.	Chlorpromazine p.r.n. (25 mg, 25 mg, 50 mg, t.i.d.).
+
+MEDICATIONS ON DISCHARGE
+We made a number of changes to [**Male First Name (un) 1**] p.r.n. and regular medication schedule, to address the current crisis, while we had a conversation with Dr. [**Last Name (STitle) 2**] about re-exploring previous medication trials once the dust has cleared with respect to discharge changes.  
+1.	Fluoxetine is unchanged at 60 mg daily.  
+2.	Chlorpromazine is being discontinued as a p.r.n. medication, instead, loxapine, which has had significant benefit for [**Male First Name (un) **] in hospital, both in our emergency department and in the CAPE unit, is the preferred p.r.n. medication, at 10 mg dosing q.1h to a maximum of 30 mg daily for significant agitation.
+3.	Wellbutrin has been discontinued for the time being, and in our discussion with Dr. [**Last Name (STitle) 2**], we have agreed that re-exploring Wellbutrin as a treatment for his underlying struggles might be a more reasonable option in a few weeks, but letting our change below be the focus of the medical changes for the time being.  
+4.	Risperidone 0.25 mg p.o. b.i.d.  This medication is likely going to work more immediately than a Wellbutrin addition at this point would, and with the interactions between Wellbutrin, fluoxetine, and risperidone, it was felt that he would be better to start the risperidone first, see how things are looking after he is in placement, and then move towards a reconsideration of Wellbutrin gently in the future.
+5.	He also takes melatonin and multivitamins daily.
+
+PRE-ADMIT DIAGNOSIS
+[**Male First Name (un) **] was admitted due to increased aggression with a background of autism and anxiety.
+
+POST-ADMIT DIAGNOSES
+1.	Autism.
+2.	Unspecified anxiety disorder.
+3.	Developmental coordination disorder.
+4.	Unspecified impulse control disorder.
+5.	Sensory over responsiveness.
+
+TREATMENT/COURSE IN HOSPITAL
+[**Male First Name (un) **] was admitted under circumstances that are well described in the admission note dated [**2021-02-01**].  Briefly, after an argument about acquiring a video game, he became very distressed and used a barbecue implement at home to break a number of windows, threatened and hit his mother, and required Emergency Health Services to intervene as well as Police in order to deescalate the situation.  He was threatening to kill himself and kill his parents and was admitted to hospital after having significant difficulty settling down in the emergency department.  At the time of admission, the parents had determined that they needed to have a voluntary care agreement, and a home had been found within the Ministry; however, in the delay in waiting for the pickup to go home to the Ministry home, he became again dysregulated and required admission to the CAPE unit. 
+
+On the unit, he has had a number of disruptive moments when he was being told news that he did not want.  His typical pattern is to get very overwhelmed when he hears new news or if a conversation is about something that he is not interested in.  He expresses his frustration by stomping his feet or putting his hands on his head or screaming and yelling.  Examples of triggers for such behavior would be if he said something like "I want to go home," and someone would stay begin "we want you to go home, too, but...," and his immediate reaction to that but would be significant distress.  He had 2 major incidents requiring intervention on the unit of seclusion, both being when he was being delivered news about first having to stay at Surrey Hospital, and second being told that he had to go and live somewhere that was not his home.  Fortunately, these events also demonstrated his ability to receive sufficient sedation with loxapine and again demonstrated that he was under behavioral control, even in these moments of difficulty.  When he would be quickly plicated with something that he wanted, such as video games, his distress would almost completely melt away.  When he was able to sleep after receiving loxapine, he would wake up generally in a better mood. 
+
+Observing [**Male First Name (un) **] significantly handle his distressing news better after the risperidone was started was impressive.  Initial start of 0.25 mg b.i.d. seemed to create a significant lesser level of distress in [**Male First Name (un) **].  Examples of this would be when he was told later in the day that he would be going to the group home tat had been found, and he would not be going home, he took it very nonchalantly.  Today, on the day of discharge, when a new person came to pick him up, he was able to keep himself well contained.  I observed [**Male First Name (un) **], as well, on the grounds with his mother, where he was very upset, but he was able to keep his hands to himself and express his upset to his mom and was rightly soothed by a trip to Starbucks.  It seems like the temporizing measure of risperidone was a positive step forward and reassuring with respect to continuing the plan to discharge. 
+
+[**Male First Name (un) **] was able to be placed in emergency placement that had previously been arranged in the emergency department.  A worker named [**Name (NI) 3**] came to pick him up and take him to the new home, and he was discharged without incident.
+
+RISK ASSESSMENT
+Obviously, he has increased risk for harming others and harming himself.  Despite his autistic diagnosis, his extreme volatile anger and his use of implements in destruction increase his risk of harming others significantly.  This is a chronic risk that is likely part behavioral and in a small part biological, the biological factor being his inability to reason and his difficulties with impulse control; however, for the most part, he uses violence as a way to achieve goals.  This is obviously going to be a more and more powerful tool for him as he gets older and larger, and our hope is that behavioral interventions, care team that can be responsive, and as well have breaks and rest as a staffed environment permits, and an ongoing connection to his loving parents who really struggled with this decision to place him in a voluntary care agreement, will be beneficial for [**Male First Name (un) **] going forward.  We are very hopeful that [**Male First Name (un) **] is able to maintain safety; however, we expect a number of safety events in the near future.  He uses aggression as a way to achieve things that he wants, and I suspect that as things do not meet his needs.  We will see more incidents of aggression which can be responded through via external controls, such as 911 calls, Police interventions, etc., external sedation such as using risperidone and trying to find a dose that has him sedated without being too sleepy or less aggressive without being too sedated, and potentially consideration of forensic charges as he gets older.  External limitations are likely going to be very necessary for [**Male First Name (un) **] as he navigates his very difficult temper control. 
+
+As it pertains to the diagnoses, parents and Dr. [**Last Name (STitle) 2**] have long been working with anxiety as the root cause of a lot of his explosiveness, which given his presentation, makes a lot of sense, and we would certainly agree with that assessment.  Anxiety medication strategies in all their forms will obviously be helpful for [**Male First Name (un) **], but there is a degree to which his participation is lessened by his black-and-white approach due to his autism.  There is very little collaboration that works with [**Male First Name (un) **] in the moment; however, my experience with [**Male First Name (un) **] is that with significant open-ended help-seeking collaboration in which he is the primary driver of treatment direction, I have observed [**Male First Name (un) **] many times offer things well within the realms of possibility after receiving significant encouragement.  It may be that behavioral approaches to his anxiety are going to be more helpful than medication approaches, given the situational nature of his anxiety and the likely underlying autism that fuels a lot of his immediate reactions to new environments and situations. 
+
+It was a pleasure seeing [**Male First Name (un) **] here on the CAPE unit, and we wish him the very best going forward.
+
+
+[**Signature 4**]
+Dictated By:  [**First Name4 (NamePattern1) 5**] [**Last Name (NamePattern1) 6**], MD
+Psychiatry
+
+TB/MODL
+Job #:  596816
+Doc #:  35920511
+D:  [**2021-08-01**] 20:24:45
+T:  11/05/2018 20:55:37 ||||END_OF_RECORD

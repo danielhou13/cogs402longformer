@@ -1,0 +1,83 @@
+
+START_OF_RECORD=0||||0|||| 
+﻿BC MENTAL HEALTH CENTRE AND SUBSTANCE ABUSE	Patient Loc-Svc:  CPE-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	31/12/2017  (DD/MM/YYYY)
+Discharged:	[**2021-05-28**]  (DD/MM/YYYY)
+
+
+
+ADMISSION DIAGNOSIS
+1.	Medication-induced hypomania.
+2.	Attention deficit hyperactivity disorder (ADHD), combined type.
+3.	Adjustment disorder with disturbance in mood secondary to 4 placement changes in the last 4 months.
+
+DISCHARGE DIAGNOSIS
+1.	Probable bipolar disorder, uncovered by fluoxetine.  Differential diagnosis is noradrenergic activation, resolved.
+2.	Attention deficit hyperactivity disorder (ADHD), combined type.
+3.	Adjustment disorder with anxious and depressed mood secondary to disruptions in placement.
+4.	Parkinsonian symptoms secondary to low-dose risperidone, resolved.
+
+TREATMENT AFTER DISCHARGE
+1.	Return to the highly supported foster home that she was placed in in late [**08-29**].	Continued follow up with Dr. [**First Name4 (NamePattern1) 1**] [**Last Name (NamePattern1) 2**], and with [**First Name8 (NamePattern2) 3**] [**Last Name (NamePattern1) 4**] of the [**Location (un) 5**] Child and Youth Mental Health team.
+
+MEDICATIONS ON DISCHARGE
+1.	Vyvanse 60 mg po qAM
+2. 	Guanfacine XR 3 mg po qAM
+3.	Trecira Lo 1 tab daily
+4.	Melatonin 3 mg po qHS prn insomnia
+5. 	Melatonin CR 5 mg po qHS prn insomnia
+
+MEDICATIONS CHANGED/STOPPED IN HOSPITAL
+1. 	Strattera/Atomoxetine was stopped while in hospital but may be restarted
+2.	Fluoxetine was stopped.  This is relatively contraindicated
+3. 	Risperidone 0.5 mg caused Parkinsonian symptoms and is relatively contraindicated
+
+IDENTIFICATION AND COURSE ON THE UNIT
+Please see other records for more details.  In brief, Dakota is a 15-year-old girl apprehended at age 8 from mother's care, as mother had drug-induced psychotic symptoms and was unable to parent her or Dakota's 2 younger siblings.  She had spent years in a stable foster placement and had notable problems with ADHD, impulsivity, anger troubles and had been managed with a complicated regimen of Vyvanse, Strattera, and clonidine.  Dakota is very talkative and uses this as a strength, as she does public speaking to outline issues of children in care and plans to be an advocate for those in care when she grows up. 
+
+There were a number of changes starting in [**2020-05-28**].  Included in this is that care switched from her previous psychiatrist to Dr. [**Last Name (STitle) 2**], and at the same time, she had had a number of short-term placements as VACFSS were trying to get her into a stable placement while living with her younger siblings with whom she has a loving but very competitive relationship. 
+
+With all of these changes, Dakota's mood started to drop.  She began cutting, and following a very brief hospitalization [**2020-09-05**], Dr. [**First Name (STitle) 6**] suggested starting fluoxetine despite a soft family history of bipolar disorder, as maternal grandmother either has bipolar II disorder or else borderline personality disorder.  For the first week at a dose of 10 mg, this dramatically improved Dakota's mood, optimism, sleep, reduced her anxiety, and she managed to stop cutting.  With the dosage increased to 20 mg just after going into this new foster home, she began to develop classic manic symptoms with pressured speech, disinhibition, no sleep. 
+
+For that reason, she was admitted to CAPE.  The fluoxetine was stopped, but all of her ADHD medications were stopped at the same time. 
+
+While in hospital, she was seen as driven and pressured, but that seemed to fit more with ADHD than with bipolar disorder.  She had some degree of improvement with restarting Vyvanse, but the fluoxetine slows the metabolism of Strattera.  Her manic-like symptoms were conceivably due to noradrenergic overdrive from very high serum levels of Strattera so it was felt best to wait until late [**2020-09-27**] before restarting that.  Additionally as a way of settling residual symptoms, risperidone 0.5 mg p.o. nightly was started in hospital but, unfortunately, she developed tongue thrust, drooling, and other EPS symptoms, so this was quickly stopped and Benadryl used to ease these symptoms. 
+
+In her last week of hospitalization, a number of community staff who know her well took her out on passes and saw that she was nearly back to baseline.  There was nothing that resembled manic symptoms.  With this in mind and after having successful weekend passes, we planned to discharge on [**2020-10-04**].  At that point, the new foster mother came in, highlighted that despite all of these community passes, Dakota had never gone back to the family home, and she was very worried that Dakota might have residual manic symptoms and would not be safe at home.  This was somewhat of a surprise to staff, as we all heard the message that Dakota was being discharged on [**2020-10-04**] and her community staff all confirmed that she was back to her baseline level of functioning and was safe to return to the community. 
+
+After a long discussion trying to address foster mother's realistic concerns that there may still be untreated manic symptoms, we came up with a modified plan for Dakota to leave with the foster mother on an overnight pass so that there is still support of CAPE unit, with a discharge on the morning of [**2020-10-05**], by telephone. 
+
+Unfortunately, Dakota woke in the middle of the night, had difficulty getting back to sleep then was irritable and oppositional in the morning of the 9th.  Discussions with the foster mother and her longstanding VACFSS worker confirmed that this was her usual irritability probably worsened by her frustration at a prolonged hospital stay, but she was not presenting as manic.  Given that Dakota was regressing on the CAPE unit, even though she had run away from this new foster home, we believe she is no longer certifiable and that extending her stay could cause harm but not improve this irritability related to lifelong trauma and insecure attachment, so we proceeded with the discharge.
+
+Regarding medication issues, Vyvanse was slowly reintroduced with the first 60 mg dose of Vyvanse to be on [**2020-10-05**].  Dakota remained on guanfacine 3 mg p.o. nightly throughout her stay and the Strattera was very briefly restarted at lower dose before being stopped and can safely be restarted in 1 week. 
+
+My understanding is that Dr. [**First Name4 (NamePattern1) 7**] [**Last Name (NamePattern1) 8**] has had discussions with Dr. [**Last Name (STitle) 2**] about medication strategies.  It appears that the next option would be whether to restart the Strattera that has been used effectively in the community, or else to have a trial of lamotrigine as the next medication step.  Both medications need slow titration.  My understanding is Dr. [**Last Name (STitle) 2**] is comfortable doing that and is aware that if Dakota is not manageable in the community with community resources, it would be possible to put in a planned admission request to the adolescent psychiatric unit, P2.
+
+ I have called a discharge prescription into her local pharmacy, Shoppers [**Telephone/Fax (2) 9**].
+
+MENTAL STATUS AT DISCHARGE
+Dakota presented as a talkative 15-year-old girl, who was well groomed and was clearly angry at being on the CAPE unit and pointing out that she had not received any psychotherapy, as there had not been any consistency of psychiatric care.  She felt that she was not getting help and was frustrated that she was now missing school as a result of delays in discharge.  Despite this understandable and justifiable anger, her speech was not pressured, she could have give and take in the conversation, and answer a few questions appropriately.  There was very little therapeutic rapport with Dakota being angry at all inpatient psychiatrists which limited getting more details.  She did not present as manic, agitated, or disinhibited with me nor with staff.
+
+FORMULATION
+Our formulation remains that Dakota is a complex girl with trauma, loss, many attachment issues, who clearly has ADHD and has some degree of risk for bipolar disorder given a soft family loading for this, but also developing manic symptoms on an SSRI that slowed the metabolism of her atomoxetine. 
+
+With this combination of multiple changes in placement and multiple stressors, she has developed problems with sad mood and anxiety and it was difficult to tease out whether this represented a Major Depressive Disorder or else an understandable reaction to real outside stressors.  That being said, Dakota's symptoms dropped dramatically with the use of low-dose fluoxetine so there may be an underlying condition treatable with some medication options. 
+
+Dakota has strengths in that she has a well-established team to support her who know her well, and her school is very supportive of her return to school. 
+
+
+
+
+[**Signature 10**]
+Dictated By:  [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) 12**] [**Last Name (NamePattern1) 13**], MD
+Psychiatry
+
+AWF/MODL
+Job #:  262283
+Doc #:  33967898
+D:  [**2021-04-27**] 18:11:55
+T:  [**2021-04-27**] 19:23:22
+||||END_OF_RECORD

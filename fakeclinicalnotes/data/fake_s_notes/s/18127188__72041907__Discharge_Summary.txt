@@ -1,0 +1,76 @@
+
+START_OF_RECORD=0||||0|||| 
+﻿BC MENTAL HEALTH CENTRE AND SUBSTANCE ABUSE	Patient Loc-Svc:  CPE-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	21/10/2017  (DD/MM/YYYY)
+Discharged:	25/10/2017  (DD/MM/YYYY)
+
+
+
+ADMISSION DIAGNOSES
+1.	Attention deficient hyperactivity disorder.
+2.	Disruptive behavior disorder.
+3.	Posttraumatic stress disorder.
+4.	Query neuroleptic malignant syndrome.
+
+DISCHARGE DIAGNOSES
+1.	Attention deficient hyperactivity disorder, combined type, severe.
+2.	Insecure attachment with separation anxiety.
+3.	Posttraumatic stress disorder.
+4.	Neuroleptic malignant syndrome was ruled out but he had elevated CK from dehydration and ongoing restraint in hospital.
+
+IDENTIFICATION AND COURSE ON THE UNIT
+Please see other records including the excellent admission note dated [**2020-07-17**], by Dr. [**Last Name (STitle) 1**]. 
+
+[**Last Name (un) 2**] is an 11-year-old boy who has a long history of inconsistent, abusive, and rejecting parenting through much of his life and already by age of 8 or 9, he had been in foster care a few times and had been in long-term residential therapeutic placement to try to manage his disruptiveness and PTSD symptoms.  In [**2020-01-26**], after being in foster care again, he was transferred from Saskatchewan under the care of his mother to maternal grandmother, and he has had a fluctuating pattern of disruptiveness.  In part, this may reflect undertreated ADHD, as he was often cheeking his medications.  He seemed to have some degree of behavioral activation and agitation from guanfacine when it was increased to 4 mg while in [**Location (un) 3**].  In Saskatchewan, when he had a trial of guanfacine this led to headache, chest pain, and agitation. 
+
+There have been multiple visits to emergency and RCMP calls, and difficulty attending school due to his impulsive disruptive behavior, property destruction, as well as suicidal and homicidal threats when distressed.  [**Last Name (un) 2**] is always genuinely remorseful and trying to make amends after these rage episodes. Maternal grandmother was clear that his Concerta 54 mg p.o. q.a.m. starts working around 11 in the morning, and wears off by 4 p.m., so he spends most of his days dysregulated. 
+
+After an episode when he was tinkering with chemicals, a common pastime, he nearly set a building on fire.  When this was challenged, [**Last Name (un) 2**] threatened to kill others, kill himself, he was chasing family members and violent to the family dog.  He was taken to [**Location (un) 3**] Emergency where he was very dysregulated and violent to the point that he was in restraints, needed multiple medications, referred to CAPE, and transferred by air ambulance.  When he was first seen in our emergency is his CK was very high.  This was seen is secondary to dehydration and the use of ongoing restraints rather than neuroleptic malignant syndrome, and with intravenous rehydration and being out of restraints, his CK quickly dropped into the normal range. 
+
+Investigations while on the unit were unremarkable. 
+
+While on the CAPE unit, he generally presented as a pleasant and charming boy, who was clearly hyperactive, very apologetic for his behavior and we did not see the extreme disruptiveness that was noted in [**Location (un) 3**].  That being said, he had extreme separation anxiety and great difficulty when his grandmother would leave to use the phone, take a break, or go to sleep elsewhere in the evenings. 
+
+From information from grandmother as well as from [**Last Name (un) 2**], it does appear that the formulation seems correct that he has a biological loading for impulsive violence and substance abuse.  His biological father apparently still remains in jail for violent crimes.  He was raised in a chaotic and neglectful environment with very little consistency, leading him to be insecurely attached, become quickly overwhelmed, and have a catastrophic sense of real or perceived abandonment.  Additionally, his adoptive father was physically violent and demonstrated violence and rage episodes as an acceptable way to cope with the inner distress.  Within this context of modeling of behavior and lack of consistency as well as significant ADHD symptoms, [**Last Name (un) 2**] has developed an entrenched pattern of acting out in silly ways which is disruptive, preventing him from doing well at school, and explosiveness when distressed, most significantly by anxiety.  He improves when he has been in a therapeutic placement.  He is clearly attached now to his grandmother and if he sees any threats to his placement there as intensely distressing, it is leading him to blow up. 
+
+[**Last Name (un) 2**] has strengths in that he sees himself as creative; that he is not destroying property or harming animals for the joy of it, but rather in reaction to inner distress.  He has been able to maintain a place on a hockey team, clearly wants to do well in school, and is remorseful for his actions between outbursts.
+
+PLAN
+
+While in hospital, as he was so settled, we focused on the importance of counseling for his PTSD symptoms and is already connected to the [**Location (un) 3**] Child and Youth Mental Health Team with Cat.  Dr. [**Last Name (STitle) 4**] is providing occasional psychiatric consultation when he flies into Cranbrook, and Dr. [**Last Name (STitle) 5**] is providing pediatric consultations.  He does not need a larger team at the moment. 
+
+While in hospital over the weekend, he was seen by multiple different doctors, who suggested multiple medication options.  I reviewed all of those in great detail with the grandmother including the quick acting medications such as risperidone, clonidine, or benzodiazepines.  [**Last Name (un) 2**] and his grandmother noted great improvement with clonazepam on the unit, but they recognize that this is addictive and given his family history of addiction, it is not optimal.  We also reviewed the longer-term options such as the use of Strattera which can target anxiety and ADHD, though low chance of success.  Clonidine to target ADHD and inner distress, though it seems to be given 4 times a day, or fluoxetine as a slow-acting agent for anxiety.  After reviewing the usual and serious side effects, pros and cons of each of these options, Grandmother had opted for a clonidine 4 times a day trial.  The plan is to optimize this dose and then to look to add in fluoxetine to treat anxiety.  Hopefully, with this combination, there may be less of a need for Concerta and the dose could be lowered at some point. 
+
+Grandmother was clear that she is generally against medication but recognizes the degree of distress as such that medications are required in part until the counseling and stability of placement can have more effect on [**Last Name (un) 2**].
+
+MEDICATIONS ON ADMISSION
+1.	Concerta 54 mg p.o. q.a.m.
+2.	Guanfacine 4 mg was recently stopped as he had recurrence of agitation on this higher dose.
+
+MEDICATIONS ON DISCHARGE
+1.	Concerta 54 mg p.o. q.a.m.
+2.	Clonidine 0.025 mg p.o. q.a.m., q.11:00, q.14:00, and q.18:00.  In 1 week, this will re-increased at 0.05 mg per dose and Dr. [**Last Name (STitle) 5**] may need to do more adjustment thereafter to get the best benefit with fewer side effects. 
+
+After this has been optimized, we suggested waiting at least 1 week after the last dose change and starting fluoxetine 10 mg p.o. q.a.m.  I provided prescriptions for these medications.  It will be useful for Dr. [**Last Name (STitle) 4**] to be available to the team as backup around reassessment and medication management. 
+
+In addition, we recommend that [**First Name4 (NamePattern1) 6**] [**Last Name (NamePattern1) 7**] and Youth Mental Health team put [**Last Name (un) 2**] on the wait list for a planned admission to P1.  If this combination of medications settles down his disruptiveness, he may not need a planned admission, but if when he gets to the top of the wait list, he is so disruptive that his placement with his grandparents in jeopardy, it is well worth having that option.
+
+MENTAL STATUS EXAM ON DISCHARGE
+[**Last Name (un) 2**] presented as a smiling, verbally impulsive, somewhat active boy, who was pleasant, cooperative, eager to talk about his workshop, and tinkering with rebuilding engines.  He was looking forward to returning to school in community and denied any suicidal ideation, and these threats seem only to come up in moments of rage rather than being a persistent thought.  Overall, he appeared to be of average or possibly below average intelligence, with partial insight as he is remorseful after the fact, but he has such intense anxiety and distress, that he has difficulty controlling his reactions.  That being said, he reports that he is much less anxious even on the starting dose of clonidine, so it may be effective in treating both ADHD and anxiety. 
+
+Regarding other issues, [**Last Name (un) 2**] was flown by air ambulance without any ID.  He has had photocopies of ID faxed to hospital and additionally, we wrote a letter that hopefully will allow him to fly using these photocopies of ID.
+
+
+[**Signature 8**]
+Dictated By:  [**First Name11 (Name Pattern1) 9**] [**Initial (NamePattern1) 10**] [**Last Name (NamePattern1) 11**], MD
+Psychiatry
+
+AWF/MODL
+Job #:  074977
+Doc #:  32884687
+D:  24/10/2017 15:13:50
+T:  24/10/2017 15:54:43
+||||END_OF_RECORD

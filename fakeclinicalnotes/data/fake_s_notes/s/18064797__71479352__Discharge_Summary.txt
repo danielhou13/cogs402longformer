@@ -1,0 +1,52 @@
+
+START_OF_RECORD=0||||0|||| 
+BC CHILDREN'S HOSPITAL	Patient Loc-Svc:  ED-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	[**2020-02-04**]  (DD/MM/YYYY)
+Discharged:	[**2020-05-06**]  (DD/MM/YYYY)
+
+
+
+DSM-V WORKING DIAGNOSIS
+1.	Generalized anxiety disorder, 300.CO2.
+2.	Persistent major depressive disorder (dysthymia, early onset, with current episode, 300.4).
+3.	Unspecified somatic symptom and related disorder, 300.A2.
+
+THERAPEUTIC RECOMMENDATIONS UPON DISCHARGE
+1.	Safety:  Please note that Pearl was admitted for 2 nights and 3 days on our CAPE unit.  During this time, she was very settled and cooperative with nursing staff.  She was able to tolerate an evening pass with her mother off the CAPE unit the day before discharge without incident.  She has gone over a detailed safety plan which was reviewed with nursing staff and Pearl as well as with her mother during our discharge meeting.  Essentially, Pearl states that during times of hopelessness, she knows to reach out to friends, and she is also aware that if her safety plan does not work, that coming to BC Children's Emergency Department is a reasonable option during times of acute destabilization.  In addition, I have discussed with Pearl and her mother that between the date of discharge and her appointment with CART next Thursday, that she can continue to contact the CAPE nursing staff for any further advice on deescalation techniques or supports.  Cross-sectionally, she denied any suicidal ideation, homicidal ideation, or urges of self-injurious behaviors, and she was no longer deemed certifiable under the Mental Health.  She was discharged safely with her mother back to her home in Vancouver.
+2.	Biological:  We have started her on a trial of fluoxetine at 10 mg p.o. daily.  Upon discharge, she was given a prescription to increase her fluoxetine by 10 mg on a weekly basis until she reaches 30 mg p.o. daily.  We have gone over psychoeducation materials from the [**Last Name (un) 1**] Mental Health website.  We have gone over common side effects, including worsening GI symptoms which she already has at baseline, including nausea, decreased appetite, and stomach upset.  We have also discussed that her frequency of headaches may increase with the titration of this medication.  We have also discussed the rare side effect and the black-box warning of selective serotonin reuptake inhibitors in adolescents, which include increase of suicidal ideation which is more pervasive and perseverative in nature.  We have not offered any refills after the 30 mg of fluoxetine is achieved, as we will leave that to the treating community team at this time.  We have also encouraged her to use melatonin 3-12 mg p.o. 30 minutes before bedtime, as this may help with her initial insomnia.  
+3.	Psychological:  Pearl has been going through depressed moods, anxiety, and somatic symptoms for approximately 2 years.  She states that things have specifically gotten worse since summer, which was a time when she was abruptly transitioned to her biological father's home after her mother found cannabis in her bedroom.  This transition was very destabilizing, not discussed with her, and interrupted her trust with her mother.  She agrees that she requires 1-on-1 supportive therapy and is willing to try this with the CART team.  In addition, we discussed that phase II of her treatment would include cognitive behavioral therapy for depression and anxiety once things are more stable.  We have also gone over grounding strategies and mindfulness strategies, which can be found on the Mind Shift app as well as Calm Meditation app.
+4.	Social:  Pearl states that she has a stable relationship with her boyfriend and was very happy to be discharged and spend time with her boyfriend and her peers.  We have discussed healthy living strategies, including routine times of daily meals as well as sleep hygiene habits.  We have also discussed that body movement is important, and physical exercise on a daily basis is recommended in this age group.
+5.	Academic:  We have discussed that a gradual return to school is important, and she was given a sick note during her time in hospital.  As you know, she has a history of school truancy, and this needs to be dealt with Delicately but also taken very seriously.  We have discussed that avoidance fuels further anxiety and that it is important for her to be attending as many classes as possible.  Her mother is very concerned about this, and we agreed that this should be part of the discharge planning as well as transition planning in the community.  Pearl agrees for the next month, it might be a difficult transition. But we have discussed to aim not to miss more than 1 day of school a week for the next few weeks during this acutely stressful period.  It may be prudent to also screen her for ADHD inattentive type in case she is struggling academically and with focus that is beyond the neurovegetative shift of depression.
+6.	Cultural nuances and psychoeducation:  Please note we had an extended family meeting upon discharge with Mom.  [**Name (NI) 2**] states that the main issue is the discrepancy in her mother's understanding of mental health issues.  She described that her mother thinks that depression is a "choice."  Pearl, myself, and her mother had a long discussion about the importance of treating mental health like a biological illness that it is.  We have also discussed the biopsychosocial model of depression and anxiety, which seemed to have resonated with her mother.  At the end of the discussion, Pearl felt more supported, knowing that her mother is aware of the treatment plan and continues to be resistant with the medication trials but is more open.  We have also discussed that medication trial of selective serotonin reuptake inhibitor in adolescents should be maintained for at least 1 year before it is reviewed.  Lastly, I have sent them to web sites of [**Last Name (un) 1**] and anxiety Disorders BC for further information.  They were also given handouts regarding the medication as well as a model of the treatment of depression in adolescents.
+
+COURSE WHILE ON CAPE
+All details will not be repeated on this dictation.  Please refer to dictation on [**2020-07-02**], which was created by [**Initials (NamePattern4) 3**]. [**First Name8 (NamePattern2) 4**] [**Last Name (NamePattern1) 5**] and her resident.  Essentially, Pearl has been struggling for approximately 2 years with depressive and anxiety symptoms.  During our discharge meeting, Pearl was able to state that the main issues at hand have been:
+1.	The lack of support with mental health issues between her and her mother.
+2.	The recent spontaneous transition of her going to her father's home in Edmonton after not seeing him for approximately 5 years.
+3.	Ongoing academic challenges and social peer challenges.
+4.	Self-esteem and body image issues; however, it does not appear to be in keeping with disorganized eating, but rather a lot of her hunger cues are erratic secondary to somatic symptoms. 
+
+With regard to her mood symptoms upon discharge, she was able to contract a safety.  She continues to have low appetite, low energy, and overall feels unmotivated towards completing school, because she feels she is not smart enough and that she does not have a future anyway.  She continues to feel hopeless and states that she has been feeling this way for years now; however, although she does not immediately believe that the help we are giving her will actually contribute to decreasing her depression, she is open to trying it out. 
+
+She was very settled on our unit and was able to complete most of her meals.  She was mostly isolating in her room, however, came to the common areas and was able to complete her safety plan and also engage with nursing staff.  She was compliant taking her medications and only reported of a headache on the first night; however, she states that she already feels a little bit better.
+
+MENTAL STATUS EXAMINATION ON DISCHARGE
+Pearl was appropriately dressed for this interview.  She had her make up fully done and was pleasant on all accounts.  Her eye contact was variable and at times downcast.  She was able to respond to all questioning appropriately and with limited detail.  Her speech was of normal rate, rhythm, and prosody.  There were no abnormal orofacial movements noted or tics noted.  There was no evidence of psychomotor retardation or agitation.  At times, she was looking to the side when her mom was present during the interview; however, she was able to focus for the most part.  Her thought content:  No delusions, no perceptual disturbances.  She was quite fixated on feeling "hopeless" and was not sure what the future entails for her.  Her thought form was organized and goal directed.  Her insight was limited but somewhat improving, knowing that she does need help and that she is open to trying whatever in order to decrease her baseline level of depression and anxiety.  Her judgment was limited, given her recent suicide of note on impulsivity around the same.  
+
+We thank you for trusting us in the care of this pleasant young woman.  If you have any questions or concerns, please do not hesitate to contact the undersigned. 
+
+Sincerely yours,
+
+
+[**Signature 6**]
+Dictated By:  [**Name6 (MD) 7**] [**Name8 (MD) 8**], MD
+Psychiatry
+
+SN/MODL
+Job #:  030442
+Doc #:  32654440
+D:  [**2020-06-06**] 10:09:38
+T:  09/10/2017 11:07:00 ||||END_OF_RECORD

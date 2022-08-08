@@ -1,0 +1,70 @@
+
+START_OF_RECORD=0||||0|||| 
+﻿BC CHILDREN'S HOSPITAL	Patient Loc-Svc:  T1ED-MH
+
+DISCHARGE SUMMARY
+
+Admitted:	13/03/2018  (DD/MM/YYYY)
+Discharged:	19/03/2018  (DD/MM/YYYY)
+
+
+
+MOST RESPONSIBLE DIAGNOSIS
+Adjustment disorder.
+
+PRE-ADMIT DIAGNOSIS
+1.	Major depressive disorder.
+2.	Generalized anxiety disorder.
+
+POST-ADMIT DIAGNOSIS
+1.	Major depressive disorder.
+2.	Generalized anxiety disorder.
+
+PRE-ADMISSION MEDICATION
+1.	Fluoxetine 40 mg p.o. daily.
+2.	Clonazepam 0.25 mg p.o. q.a.m. and 0.5 mg p.o. at bedtime.
+
+MEDICATIONS ON DISCHARGE
+1.	Citalopram 10 mg p.o. daily with a goal of increasing every week until a target dose of 40 mg p.o. daily is reached.
+2.	Clonazepam 0.25 mg p.o. q.a.m. 0.25 mg p.o. at bedtime.  The goal with the clonazepam is to taper and discontinue over a 2-week period of time.
+
+DISCHARGE DISPOSITION
+[**Female First Name (un) 1**] was decertified and discharged home to the care of her parents.
+
+POST-DISCHARGE FOLLOW-UP
+[**Female First Name (un) 1**] will follow up with the Pacifica Spirits Mental Health team.
+
+RISK ASSESSMENT
+On the day of discharge, [**Female First Name (un) 1**] reported that, despite having ongoing suicidal ideations "at the back of her mind," that currently she did not have any specific plans or intent.  As such, her acute risk of suicide or significant self injury is low.  However, [**Female First Name (un) 1**] has a longstanding history of having chronic suicidal ideations and as a result, will always be at risk of completed suicide.  Despite this, the potential lethality of her plans remain of low risk.  Her previous attempts of suicide and self-harm behavior include cutting herself, threatening to jump out of moving cars, or jumping down a flight of stairs.  However, upon further exploration of her suicidal intent during her current admission, [**Female First Name (un) 1**] disclosed that there where several protective factors that prevented her from completing or going through with her plans which included the love that she has for her parents and having a relatively low pain tolerance. As such, [**Female First Name (un) 1**] remains a chronic risk for suicide or significant self injury; however, her current acute risk is low.
+
+TREATMENT/COURSE IN HOSPITAL
+[**First Name8 (NamePattern2) 1**] [**Last Name (NamePattern1) 2**] is well known to the CAPE unit from previous brief admissions and followup with Dr. [**Last Name (STitle) 3**] for medication management for her depressive and anxiety symptoms.  Please see past consultations and discharge summaries for complete details. 
+
+[**Female First Name (un) 1**] was brought to the ER on [**2020-12-07**], by the RCMP after her mother had found her cutting her wrists and after [**Female First Name (un) 1**] had attempted to jump out of the window as a suicidal attempt.  She was assessed in the ER and certified under the Mental Health Act for further management and safety concerns. 
+
+Over the course of her admission, [**Female First Name (un) 1**] did endorse having suicidal ideations while admitted in the CAPE unit, however, on daily assessments, began to deny having a specific plan or intent.  She described how she could not identify any recent triggers or stressors that might have affected her presentation, though [**Female First Name (un) 1**] did disclose that she always has a plan at the back of her mind for how she would commit suicide when the opportunity presents itself.  Despite this, she remained well settled on the unit and was compliant with her treatment plan.  [**Female First Name (un) 1**], though, did mention how she felt that the fluoxetine 40 mg p.o. daily that she was taking was not entirely effective in managing her depressive and anxiety symptoms.  As a result, [**Female First Name (un) 1**] was started on citalopram 10 mg p.o. daily, and the fluoxetine was discontinued. 
+
+In addition, [**Female First Name (un) 1**] had psychological testing done with Dr. [**Last Name (STitle) 4**], which [**Female First Name (un) 1**] said she found very helpful and therapeutic.  Dr. [**Last Name (STitle) 4**] also worked with [**Female First Name (un) 1**] on formulating and modifying her current safety plan. 
+
+Several family meetings were held with her parents, where support was provided regarding [**Female First Name (un) 5**] safety, and approaches were suggested on how her parents should manage when [**Female First Name (un) 1**] has ongoing suicidal ideations or is engaging in self-harm behaviors.  [**Female First Name (un) 5**] parents said that they felt well supported with the plan and also felt safe with regard to her being discharged under their care. 
+
+On the date of her discharge, a meeting was held with her parents and [**Last Name (un) 6**], from Pacific Spirit, regarding post discharge followup with the mental health team as well as starting the process of referring [**Female First Name (un) 1**] for DBT therapy. 
+
+On discharge, [**Female First Name (un) 5**] mental status was observed as being more engaged in conversation, she volunteered providing information on her own rather than being prompted.  She was cooperative and more accessible.  Reliability still remained questionable, but rapport was easier to establish compared to previous interactions.  Her eye contact was consistent, and her speech was normal in rate, rhythm, tone, and volume.  Her thought form was organized, coherent, and goal and future oriented.  Despite endorsing current suicidal ideations, she denied having a plan or intent and felt safe to be discharged home.  She denied any delusional content, as well.  Her mood subjectively was "improving," and her affect was euthymic and reactive.  Her cognition was grossly intact, and she denied any auditory hallucinations or visual hallucinations.  Her insight and judgment were both deemed as being fair. 
+
+Thank you for involving us in this patient's care.
+
+
+[**Signature 7**]
+Dictated By:  [**First Name9 (NamePattern2) 8**] [**Last Name (un) 9**] (Res), MD
+
+[**Signature 7**]
+Dictated For:  [**First Name4 (NamePattern1) 10**] [**Last Name (NamePattern1) 3**], MD
+Psychiatry
+
+VP/MODL
+Job #:  459275
+Doc #:  35087473
+D:  20/03/2018 13:17:37
+T:  20/03/2018 15:07:09
+||||END_OF_RECORD

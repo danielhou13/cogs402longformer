@@ -1,0 +1,80 @@
+
+START_OF_RECORD=0||||0|||| 
+BC MENTAL HEALTH CENTRE AND SUBSTANCE ABUSE	Patient Loc-Svc:  CPE-PM
+
+OUTPATIENT PSYCHIATRY CLINIC
+
+DISCHARGE SUMMARY
+
+Admitted:	[**2020-12-29**]  (DD/MM/YYYY)
+Discharged:	  (DD/MM/YYYY)
+
+
+
+Date of admission:  [**2020-12-29**]. 
+Date of discharge:  [**2020-12-30**]. 
+
+Admission medications: 
+1.	Risperidone 1 mg daily.
+2.	Fluvoxamine 125 mg daily.
+3.	Doxycycline 100 mg daily.
+4.	Feramax 300 mg daily.
+5.	Melatonin 10 mg nightly.
+6.	As needed:  Benadryl. 
+Discharge medications:  No change to any medications except: 
+1.	Risperidone will be slightly increased by 0.125 mg every week for a target dose of 1 mg p.o. b.i.d.
+2.	Benztropine has been added as a p.r.n. medication in case of any extrapyramidal side effects.  
+3.	Doxycycline, Feramax, Melatonin, and fluvoxamine are unchanged.
+
+ADMISSION DIAGNOSIS
+Autistic spectrum disorder, borderline intellectual disability, aggression in the context of previous.
+
+DISCHARGE DIAGNOSIS
+Autistic spectrum disorder, borderline intellectual disability, aggression in the context of previous.
+
+COURSE IN HOSPITAL
+Please see the excellent consultation note by Dr. [**First Name4 (NamePattern1) 1**] [**Last Name (NamePattern1) 2**] regarding the admission of Noorayne Ladha.  I have known Noorayne from previous consultations in the emergency department, and this admission summary was very helpful in catching me up to the things that have recently happened.  Noorayne had a very short stay on the CAPE unit which was uneventful from any safety events. 
+
+Briefly, Noorayne was admitted to hospital for endorsing suicidal ideation in the context of conflict with his family, who had removed equipment that he usually uses for entertainment (Nintendo DS, computer) after he broke a laptop in frustration.  During the next day, he became very upset with respect to his loss of privileges, had to be removed from school after getting very upset, and then when he was at home he indicated that he wanted to hurt himself.  Mother drove him to hospital. 
+
+Noorayne spent the evening sleeping, and was very easy to be interviewed on the next day of admission. 
+
+Meeting with Noorayne, it was clear that he had returned to his baseline.  He had perceived some slights with respect to his mom taking away his electronics, but he admitted that he took things too far and felt like he said things that he did not mean.  He autistically explained many problems that he has with the world, and on the face of it these are concerning things to be said.  For example, he believes that the world would be better without any children.  He believes that the world would be better if someone would kill [**First Name4 (NamePattern1) 3**] [**Last Name (NamePattern1) 4**].  He believes that if there were no banks or money, that people would be happier.  He also makes misogynistic and racial comments, sharing with me that he wished that there were "no women, and no black people."  He says these very matter of factly, and I do not believe his intention is to create any offense, but it is clear that by expressing these things he is going to create significant concern for people around him.  I shared that with him, and he admitted that he should not say those things out loud.  I believe that in his autistic world, he is very influenced by his online hang outs.  He is particularly interested in two Internet web sites, Reddit, and 4 [**Last Name (un) 5**], both places where if one wants to, they can descend into a world of significant misogyny, racism, and hatred.  I believe that Noorayne is very influenced by things that he reads online, and is very powerfully captured by funny things such as the means or jokes, even at the expense of misogyny or racism.  I shared with Noorayne that he needs to make sure that he is looking at things that are appropriate and remembering that people online can be manipulative.  Noorayne superficially accepts this but also believes that he is part of the group and believes that he could lead "a revolution against the world." 
+
+Noorayne admits that he should not have been aggressive towards his mother and should not have threatened suicide.  He is no longer suicidal.  He feels like going home is appropriate, and felt like he had no difficulties with being discharged today.  He wanted to be a part of any family planning meetings, and was receptive to the idea of me meeting with his parents first. 
+
+When parents came in for a meeting, they shared that his behavior had declined since March, with a reduction of risperidone from a higher dose which caused significant oculogyric events, down to 1 mg which has not led to any oculogyric events but has been less helpful with respect to containing his aggression.  We explored options with respect to treating this and parents selected the treatment plan below, which was our recommended treatment plan. 
+
+Parents had no concerns in taking Noorayne home and felt that he had returned to baseline.  They were appreciative of his short stay on the unit but they do miss him and the unit was active with respect to distress by other patients, so they were worried about the influence of fear on Noorayne.  They elected to take him home on discharge. 
+
+Noorayne was discharged easily with no complications on [**2020-12-30**], at approximately 2 p.m.
+
+IMPRESSION
+If feels like Noorayne was doing better at 2 mg of risperidone but he was having events that were quite convincingly oculogyric crises.  These events are dangerous with respect to their connection to other central dystonias, which can include laryngospasm.  For this reason, it is very important to weigh the oculogyric crisis' significant negative with respect to risperidone.  At the same time, the risperidone was restarted from a switch from aripiprazole at a high dose and ramped up very quickly, and with his previous good response to risperidone and his lack of any dystonia today, we felt that it was appropriate to try and increase his risperidone gradually.  Another option that was considered was to keep his risperidone exactly where it was, but to add clonidine.  In the pursuit of not adding too many medications together, he is already on quite a list, we elected to do a cautious re titration of risperidone, watching out for any oculogyric events. 
+
+With respect to his behavior and language, it will always be shocking and in his autistic world, he is not causing any offence by his statements.  He comes across as legitimately a charming person, but when you delve into his thinking it is clear that he is very black and white, and he has been heavily influenced by racial and misogynistic posts online.  That all being said, he treats people with respect and says the right thing when he knows he should.  Some of his more outlandish statements are very difficult to digest, but I believe that there is no current evidence of any significant violence towards others or his threats that he has mentioned to other people do not seem to have significant weight behind them.  I know that he has lost school standing and had to switch schools because of a threat towards principal, and he says some things such as "wanting to kill all 
+children which are obviously unsettled.  At the same time, his autistic spectrum disorder is not treatable, and he is well contained and responds very well to a behavioral approach.  He holds himself to a very high standard and I believe his greatest risks are when he is frustrated doing self injury or attempting to elope.  I do not believe that he is at risk for homicidal acting out, either injuring others or trying to kill others. 
+
+When it comes to his suicide risk, his autism and borderline IQ are protective factors.  That being said, in frustration I could see him hurting himself.  For this reason, frustration tolerance is one of our biggest goals, which I hope that the medication changes will accommodate.  As well, I have encouraged parents not to try too many behavioral things right now while he is clearly unsteady. 
+
+For all these reasons, I felt that discharge from hospital was appropriate, there is a chronic risk of hurting himself, and he has previously made threats against others, however I do not believe that these threats or violent parameters will change with any inpatient treatment, and a gradual titration of risperidone is most appropriately done as an outpatient.  Watching Noorayne react so negatively to emotion of the unit (another patient became quite distressed) was also quite convincing that the hospitalization was relatively traumatic for Noorayne.  With parents being on board with the safety plan, demonstrating excellent judgment with respect to managing Noorayne, and Noorayne's willingness to try to take things a little bit easier and try a new medication, discharge was appropriate.
+
+TREATMENT PLAN
+1.	Increase gradually risperidone by 0.125 mg every week to a target dose of 2 mg (1 mg b.i.d.).
+2.	Mother will keep look out for any oculogyric events, if they happen, she has benztropine on order to be able to give him.  If the benztropine does not work I have instructed her to bring him to the hospital.
+3.	If risperidone is not able to come back to the full dose at 2 mg total dose daily, going back to 1 mg daily and using clonidine, with an eye to possibly switching to clonidine or guanfacine monotherapy should be the next course of action.
+4.	We set up appointments with Dr. [**Last Name (STitle) 6**] for followup with respect to dystonia.  I will check in for any appointments that Dr. [**Last Name (STitle) 6**] can not make, and mother can set up an appointment with me to check in.  We are hopeful that the dystonia checks can happen biweekly, and if there is any challenges with increasing the doses, we can hold at our current dose or consider going to the clonidine. 
+Please note that as of today, at 1 mg of risperidone there was no dystonia or clonus noted. 
+
+It was a pleasure working with Noorayne and we wish him the very best in the future.
+
+
+[**Signature 7**]
+Dictated By:  [**First Name4 (NamePattern1) 8**] [**Last Name (NamePattern1) 9**], MD
+Psychiatry
+
+TB/MODL
+Job #:  498284
+Doc #:  35329425
+D:  [**2021-01-28**] 15:56:06
+T:  05/04/2018 16:54:53 ||||END_OF_RECORD
