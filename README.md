@@ -35,3 +35,7 @@ A portion of this project involves an adjustment and usage of some functions fou
 Modifications to T3-vis for longformer use can be found in the folder `src/T3-vis/`. This mainly includes the code to find the aggregate attention of the model across a specific testing set. 
 
 To learn more about T3-vis, I recommend reading their [paper](https://arxiv.org/abs/2108.13587)
+
+## Fake Clinical Notes
+
+Our notebooks for the clinical notes dataset is in the folder `fakeclinicalnotes`. All notebooks for visualizations are in the folder `src/cogs402projecttestnotes` and the files to be used with T3-vis is in `t3-visapplication`.
