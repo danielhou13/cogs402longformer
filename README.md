@@ -38,4 +38,4 @@ To learn more about T3-vis, I recommend reading their [paper](https://arxiv.org/
 
 ## Fake Clinical Notes
 
-Our notebooks for the clinical notes dataset is in the folder `fakeclinicalnotes`. All notebooks for visualizations are in the folder `src/cogs402projecttestnotes` and the files to be used with T3-vis is in `t3-visapplication`.
+We run through our notebooks using a small dataset of mock clinical notes. Our notebooks for the clinical notes dataset is in the folder `fakeclinicalnotes`. All notebooks for visualizations are in the folder `src/cogs402projecttestnotes` and the files to be used with T3-vis is in `t3-visapplication`.
