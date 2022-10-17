@@ -34,7 +34,7 @@ A portion of this project involves an adjustment and usage of some functions fou
 
 Modifications to T3-vis for longformer use can be found in the folder `src/T3-vis/`. This mainly includes the code to find the aggregate attention of the model across a specific testing set. 
 
-To learn more about T3-vis, I recommend reading their [paper](https://arxiv.org/abs/2108.13587)
+To learn more about T3-vis, I recommend reading their [paper](https://arxiv.org/abs/2108.13587).
 
 ## Fake Clinical Notes
 
