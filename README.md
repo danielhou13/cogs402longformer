@@ -2,6 +2,8 @@
 
 This is the repository for COGS402 S2022 project. While you can clone this on to your own machine, there is a high GPU memory cost because of the requirements for the Longformer. The work for this project is primarily done on google colab, and the repository can also be found here for you to "clone": https://drive.google.com/drive/folders/1T0bmf2eqGK63pjqNtV25vIPsN9OcPZiS?usp=sharing. 
 
+A final written report of the project can be found in the file `Project_Report.pdf` outlining the background, methodology, results and the future directions of this project.  
+
 ## Data Processing
 
 The research papers dataset in its raw form can be found in the data folder of the repository. It is formatted as both its respective .RAR files as well as folders containing the extracted data. The file `src/datasetcreate` converts both folders into a csv file. The csv file can be found [here](https://huggingface.co/datasets/danielhou13/cogs402dataset) and is already split into a training set and a testing set with a 0.8/0.2 ratio respectively.
