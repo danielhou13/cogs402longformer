@@ -1,4 +1,4 @@
-# Cogs402longformer
+# Exploring Visualizations for Interpreting Longformer Model Predictions
 
 This is the repository for COGS402 S2022 project. While you can clone this on to your own machine, there is a high GPU memory cost because of the requirements for the Longformer. The work for this project is primarily done on google colab, and the repository can also be found here for you to "clone": https://drive.google.com/drive/folders/1T0bmf2eqGK63pjqNtV25vIPsN9OcPZiS?usp=sharing. 
 
