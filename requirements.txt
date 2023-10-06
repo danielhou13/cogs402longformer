@@ -3,6 +3,7 @@ datasets
 pandas
 captum
 matplotlib
+scikit-learn
 
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==2.1.0+cpu
