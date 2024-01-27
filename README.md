@@ -4,8 +4,8 @@ This is the repository for COGS402 S2022 project. While you can clone this onto 
 
 A final written report of the project can be found in the file `Project_Report.pdf` outlining the background, methodology, results, and future directions of this project.  
 
-## installation
-Currently, pytorch only supports version 3.8=3.11 so ensure that your Python version is suitable. I used conda to manage my packages and installed them in the environment using the command `pip install -r requirements.txt --user`. The user argument may not be necessary for your installation but I came across a permissions error during my installation.
+## Installation
+Currently, pytorch only supports version 3.8=3.11 so ensure that your Python version is suitable. I used conda to manage my packages and installed them in the environment using the command `pip install -r requirements.txt`.
 
 ## Data Processing
 
