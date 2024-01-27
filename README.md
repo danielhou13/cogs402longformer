@@ -1,8 +1,11 @@
 # Exploring Visualizations for Interpreting Longformer Model Predictions
 
-This is the repository for COGS402 S2022 project. While you can clone this on to your own machine, there is a high GPU memory cost because of the requirements for the Longformer. The work for this project is primarily done on google colab, and the repository can also be found here for you to "clone": https://drive.google.com/drive/folders/1T0bmf2eqGK63pjqNtV25vIPsN9OcPZiS?usp=sharing. 
+This is the repository for COGS402 S2022 project. While you can clone this onto your own machine, there is a high GPU memory cost because of the requirements for the Longformer. The work for this project is primarily done on google colab, and the repository can also be found here for you to "clone": https://drive.google.com/drive/folders/1T0bmf2eqGK63pjqNtV25vIPsN9OcPZiS?usp=sharing. 
 
-A final written report of the project can be found in the file `Project_Report.pdf` outlining the background, methodology, results and the future directions of this project.  
+A final written report of the project can be found in the file `Project_Report.pdf` outlining the background, methodology, results, and future directions of this project.  
+
+## installation
+Currently, pytorch only supports version 3.8=3.11 so ensure that your Python version is suitable. I used conda to manage my packages and installed them in the environment using the command `pip install -r requirements.txt --user`. The user argument may not be necessary for your installation but I came across a permissions error during my installation.
 
 ## Data Processing
 
